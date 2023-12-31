@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile. I'm passionate about PHP and Laravel. Feel free to explore my repositories and get in touch.
 
+I'm currently studying Vue.js 
+
 ![Image](https://badoystudio.com/wp-content/uploads/2022/09/perbedaan-php-native-dan-framework.png)
 
 <!--
