@@ -1,8 +1,8 @@
-### Hi there 👋
-### 121212
-### 21121212
-### 21121212
-### 12121212
+# Hello, I'm Fikri Hidayat!
+
+Welcome to my GitHub profile. I'm passionate about PHP and Laravel. Feel free to explore my repositories and get in touch.
+
+![Image](https://badoystudio.com/wp-content/uploads/2022/09/perbedaan-php-native-dan-framework.png)
 
 <!--
 **fikridyth/fikridyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
